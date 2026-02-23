@@ -3,5 +3,5 @@
 /.idea/.idea.SimplePotteryKiln.dir/.idea/indexLayout.xml
 /.idea/.idea.SimplePotteryKiln.dir/.idea/vcs.xml
 /.idea/.idea.SimplePotteryKiln.dir/.idea/workspace.xml
-bin
-obj
+/bin
+/obj
