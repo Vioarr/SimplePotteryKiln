@@ -1,7 +1,3 @@
-/.idea/.idea.SimplePotteryKiln.dir/.idea/encodings.xml
-/.idea/.idea.SimplePotteryKiln.dir/.idea/gitignore
-/.idea/.idea.SimplePotteryKiln.dir/.idea/indexLayout.xml
-/.idea/.idea.SimplePotteryKiln.dir/.idea/vcs.xml
-/.idea/.idea.SimplePotteryKiln.dir/.idea/workspace.xml
+.idea/
 bin/
 obj/
