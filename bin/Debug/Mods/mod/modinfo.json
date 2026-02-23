@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "simplepotterykiln",
+    "name": "Simple Pottery Kiln",
+    "authors": [
+        "pot"
+    ],
+    "description": "Brick-built kiln that acts as a transition from pit kiln to beehive kiln",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.21.0"
+    }
+}
